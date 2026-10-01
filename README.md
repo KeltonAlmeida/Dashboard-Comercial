@@ -1,4 +1,4 @@
-# 📊 Dashboard de Vendas 2026 — Excel
+# 📊 Dashboard de Vendas 2026 - Excel
 
 Projeto de análise de dados desenvolvido em **Microsoft Excel** com o objetivo de acompanhar o desempenho comercial de uma empresa fictícia durante o **1º semestre de 2026**.
 
